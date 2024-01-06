@@ -24,7 +24,7 @@ sudo make install
 
 ## Usage
 
-`spaiot-simulator mosiPin clkPin csPin swPin`, eg: 
+`spaiot-simulator dataOutPin clkPin nWrPin dataInPin`, eg: 
 
 ```bash
 spaiot-simulator 16 15 1 4
